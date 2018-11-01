@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrySqlLiteOpen</string>
+    <string name="editTextCountry">Country</string>
+    <string name="editTextCity">City</string>
+    <string name="buttonInsert">Insert Record</string>
+    <string name="buttonRead">Read Data</string>
+</resources>
